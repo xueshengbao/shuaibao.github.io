@@ -526,6 +526,7 @@ h2.resp-accordion {
 }
 .portfolio-grids img.img-responsive {
     width: 100%;
+    overflow: hidden;
 }
 .portfolio-grids.grid.grid-mdl {
     margin: 2em 0;
