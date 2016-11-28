@@ -822,7 +822,7 @@ input[type="submit"]:hover{
 	}
 	.projects{
 		min-height: 460px;
-		padding-top: 2em;
+		padding-top: 1.5em;
 	}
 	.total-project {
 		top: -35%;
@@ -894,7 +894,7 @@ input[type="submit"]:hover{
 	}
 	.projects {
 		min-height: 445px;
-		padding-top: 2em;
+		padding-top: 1.5em;
 	}
 	.project-grid span {
 		width: 60px;
@@ -1008,7 +1008,7 @@ input[type="submit"]:hover{
 	}
 	.projects {
 		min-height: 410px;
-		padding-top: 7.5em;
+		padding-top: 1.5em;
 	}
 	.cycle span {
 		width: 250px;
