@@ -577,6 +577,11 @@ input[type="submit"]:hover{
 	.total-project {
 		top: -43%;
 	}
+	.projects .icon{
+		margin-top: 20px;
+		width: 25%;
+		height: 200px;
+	}
 }
 @media (max-width:1080px) {
 	.effect1 p {
@@ -745,6 +750,11 @@ input[type="submit"]:hover{
 	.portfolio-grids.grid, .portfolio-grids.grid.grid-mdl {
 		width: 48%;
 	}
+	.projects .icon{
+		width: 33.3%;
+		height: 160px;
+		float: left;
+	}
 }
 @media (max-width:600px) {
 	.about img {
@@ -752,6 +762,11 @@ input[type="submit"]:hover{
 	}
 	.total-project {
 		left: 38%;
+	}
+	.projects .icon{
+		width: 33.3%;
+		height: 150px;
+		float: left;
 	}
 }
 @media (max-width:568px) {
@@ -761,7 +776,7 @@ input[type="submit"]:hover{
 	}
 	.projects .icon{
 		width: 50%;
-		height: 200px;
+		height: 220px;
 		float: left;
 	}
 	.about, .skills, .download, .portfolio, .blog, .contact {
@@ -869,6 +884,11 @@ input[type="submit"]:hover{
 	.c-w3l h4 a {
 		font-size: 14px;
 	}
+	.projects .icon{
+		width: 50%;
+		height: 170px;
+		float: left;
+	}
 }
 @media (max-width:414px) {
 	h4.agile {
@@ -888,8 +908,8 @@ input[type="submit"]:hover{
 		width: 25%;
 	}
 	.projects .icon{
-		width: 33.3%;
-		height: 200px;
+		width: 50%;
+		height: 160px;
 		float: left;
 	}
 	.projects {
@@ -949,8 +969,8 @@ input[type="submit"]:hover{
 		font-size: 14px;
 	}
 	.projects .icon{
-		width: 33.3%;
-		height: 160px;
+		width: 50%;
+		height: 140px;
 		float: left;
 	}
 	.c-w3l {
@@ -975,7 +995,7 @@ input[type="submit"]:hover{
 	}
 	.projects .icon{
 		width: 33.3%;
-		height: 120px;
+		height: 100px;
 		float: left;
 	}
 }
